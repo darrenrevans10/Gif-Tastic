@@ -1,0 +1,75 @@
+.wrapper {
+	background-image: url(../images/background.jpg);
+	padding: 50px;
+	padding-bottom: 100px;
+	background-attachment: fixed;
+}
+
+.container {
+	background-color: #EAEAEA;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+}
+
+h1 {
+	text-align: center;
+	font-size: 400%;
+	font-weight: bold;
+	margin-bottom: 50px;
+}
+
+div.ratings {
+	font-size: 20px;
+	margin-left: 27px;
+}
+
+#animal-form {
+	text-align: center;
+	margin-bottom: 50px;
+	margin-top: 25px;
+
+}
+
+input#add-animal {
+	padding: 7px 20px;
+	color: white;
+	background-color: #2A4C73;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+input#animal-input {
+	padding: 7px 50px 7px 50px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin-right: 5px;
+}
+
+img {
+	float: left;
+	margin: 29px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+button.animal {
+	font-size: 20px;
+	margin-left: 15px;
+	color: white;
+	background-color: #2A4C73;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+button.animal:hover {
+	background-color: black;
+}
